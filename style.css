@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+@font-face {
+    font-family:"inter";
+    src: url(/inter.ttf);
+}
+.box{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    height:319px;
+    background-color:#209F62
+}
